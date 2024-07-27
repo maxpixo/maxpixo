@@ -1,7 +1,5 @@
 # MAHMOUD ABOUZEID / README.md
 
-![Profile Image](https://avatars.githubusercontent.com/u/1234567?v=4)
-
 ## Hi, I'm MAHMOUD ABOUZEID.
 
 👀 I'm a data analyst who enjoys documenting her learning journey.  
