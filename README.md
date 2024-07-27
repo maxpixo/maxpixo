@@ -15,5 +15,4 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
-### GitHub Stats:
-# ![Irene Nafula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAXPIXO&show_icons=true&theme=radical)
+
